@@ -1,0 +1,125 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".jshintrc": {
+        "previousModTime": 1471387742152,
+        "modified": 1471387742152,
+        "seen": true,
+        "name": ".jshintrc"
+      },
+      "AccessControl.xdk": {
+        "previousModTime": 1471387743158,
+        "modified": 1471387743158,
+        "seen": true,
+        "name": "AccessControl.xdk"
+      },
+      "AccessControl.xdke": {
+        "previousModTime": 1471437233174,
+        "modified": 1471437233174,
+        "seen": true,
+        "name": "AccessControl.xdke"
+      },
+      "config.json": {
+        "previousModTime": 1471387742153,
+        "modified": 1471387742153,
+        "seen": true,
+        "name": "config.json"
+      },
+      "datastore.js": {
+        "previousModTime": 1471387742154,
+        "modified": 1471387742154,
+        "seen": true,
+        "name": "datastore.js"
+      },
+      "icon.png": {
+        "previousModTime": 1471387742154,
+        "modified": 1471387742154,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "index.html": {
+        "previousModTime": 1471387742154,
+        "modified": 1471387742154,
+        "seen": true,
+        "name": "index.html"
+      },
+      "index.js": {
+        "previousModTime": 1471435930299,
+        "modified": 1471435930299,
+        "seen": true,
+        "name": "index.js"
+      },
+      "LICENSES.md": {
+        "previousModTime": 1471387742155,
+        "modified": 1471387742155,
+        "seen": true,
+        "name": "LICENSES.md"
+      },
+      "mqtt.js": {
+        "previousModTime": 1471387742155,
+        "modified": 1471387742155,
+        "seen": true,
+        "name": "mqtt.js"
+      },
+      "package.json": {
+        "previousModTime": 1471387742155,
+        "modified": 1471387742155,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1471387742155,
+        "modified": 1471387742155,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1471387742856,
+        "modified": 1471387742856,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "config.json": {
+        "previousModTime": 1471437408845
+      },
+      "datastore.js": {
+        "previousModTime": 1471437408845
+      },
+      "icon.png": {
+        "previousModTime": 1471437408845
+      },
+      "index.html": {
+        "previousModTime": 1471437408845
+      },
+      "index.js": {
+        "previousModTime": 1471437408845
+      },
+      "LICENSES.md": {
+        "previousModTime": 1471437408845
+      },
+      "mqtt.js": {
+        "previousModTime": 1471437408845
+      },
+      "package.json": {
+        "previousModTime": 1471437408845
+      },
+      "README.md": {
+        "previousModTime": 1471437408845
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1471437408845
+      }
+    }
+  }
+}
